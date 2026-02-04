@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs
+runs/
+
+# Checkpoints (distributed separately)
+checkpoints/
+
+# Dataset (distributed separately)
+dataset/images/
+dataset/raw/
+
+# Large media files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.heic
+*.heif
+
+# Archives
+*.zip
+*.7z
+*.rar
