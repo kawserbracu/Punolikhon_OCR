@@ -7,6 +7,14 @@ Punolikhon is a two-stage bilingual (Bengali + English) handwritten OCR system.
 
 This repository is prepared as a publication-ready codebase. Datasets and large binaries are not stored in git; they are provided as an external download (see `dataset/README.md`).
 
+## Dataset Download
+
+The page-level dataset (images + annotations) is available on Google Drive:
+
+**Link:** https://drive.google.com/file/d/1YzaDtDB3qyBniF0wrjNi70yz-HvNa2YR/view?usp=sharing
+
+After downloading, follow the build steps below to generate crops and manifests for training/evaluation.
+
 ## 0) Dataset: build crops + manifests (reproducible, no crops shipped)
 
 The recognition training/evaluation in this project uses **word crops** generated from page-level annotations with 3 preprocessing modes:

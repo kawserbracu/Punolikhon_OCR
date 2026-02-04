@@ -4,6 +4,10 @@ This repository does **not** store the full dataset in git.
 
 For paper/publication, the dataset is distributed as an external archive (recommended: **Zenodo** for a DOI, or Google Drive/OneDrive).
 
+## Download Link (Google Drive)
+
+**Link:** https://drive.google.com/file/d/1YzaDtDB3qyBniF0wrjNi70yz-HvNa2YR/view?usp=sharing
+
 This release is intended to be **page-level** (images + annotations). Word-crops and crop-based manifests are generated locally using the scripts in this repository.
 
 ## 1) What the dataset contains
